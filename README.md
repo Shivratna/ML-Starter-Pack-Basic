@@ -3,8 +3,11 @@ Basic character probability based ML use for text generation and training for st
 
 USED:
 -JSON
+
 -NUMPY
+
 -REQUESTS(is required)
+
 -Markov chain model based
 
 #Training:
